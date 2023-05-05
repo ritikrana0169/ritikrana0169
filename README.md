@@ -1,5 +1,7 @@
 # 💫 About Me:
-💫 About Me:<br>Hi 👋, I'm Ritik Rana<br>A self-motivated, hard-working, and ambitious Web Developer with proficiency in Java, JavaScript, HTML, and CSS. Problem-solving mindset and the ability to perform well in collaboration<br><br>🔭 I’m currently Studying Full-stack Web Development.<br><br>🌱 I’m currently learning Java AND MySQL.<br><br>💬 Ask me about HTML, CSS, JavaScript, Java, and MySQL.<br><br>📫 How to reach me ritikrana719@gmail.com<br><br>📄 Know about my experiences -> https://drive.google.com/drive/folders/16ub1i4hPIwHiRsY0CYGS9Ni3dKg-DO13?usp=share_link<br><br>⚡ Fun fact: As a Software developer spend more time learning as compared to others.
+💫 About Me:<br>Hi 👋, I'm Ritik Rana<br>A self-motivated, hard-working, and ambitious Web Developer with proficiency in Java, JavaScript, HTML, and CSS. Problem-solving mindset and the ability to perform well in collaboration<br><br>🔭 I’m currently Studying Full-stack Web Development.<br><br>🌱 I’m currently learning Java AND MySQL.<br><br>💬 Ask me about HTML, CSS, JavaScript, Java, and MySQL.<br><br>📫 How to reach me ritikrana719@gmail.com<br><br>📄 Know about my experiences -> https://drive.google.com/drive/folders/16ub1i4hPIwHiRsY0CYGS9Ni3dKg-DO13?usp=share_link<br>
+This is my Portfolio Link-> https://ritikrana0169.github.io/
+<br><br>⚡ Fun fact: As a Software developer spend more time learning as compared to othe
 
 
 ## 🌐 Socials:
