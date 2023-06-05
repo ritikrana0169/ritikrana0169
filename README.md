@@ -4,7 +4,7 @@
 📄My Portfolio Link-> https://ritikrana0169.github.io/   
    
 <br><br>⚡ Fun fact: As a Software developer spend more time learning as compared to othe
-   
+    
 ## 🌐 Social:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritik-rana-up17) 
    
