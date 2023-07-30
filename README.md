@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ritikrana0169&theme=shadow_blue&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ritikrana0169&ring=5094f0&currStreakLabel=5094f0&fire=5094f0&theme=dark&hide_border=true)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritikrana0169&theme=2077&exclude=css)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ritikrana0169&theme=2077&exclude=CSS)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritikrana0169&theme=2077)<br/>
  
 ### ✍️ Random Dev Quote
