@@ -1,5 +1,5 @@
 ![giphy](https://github.com/ritikrana0169/ritikrana0169/assets/99540875/f9dfbd97-a330-4ba8-86ff-1099a5cdd8d9)
-    
+  
 <br>💫 About Me:<br> 
 <b>Ritik Rana<b><br><br>Introduction<br>Hello! My name is Ritik and I am a passionate Java Backend Web Developer with strong administrative and problem-solving skills. This README provides an overview of my skills, experiences, and social media profiles.<br><br>Personal Information<br>Name: Ritik Rana<br>Email: saviji520@gmail.com<br>Portfolio<br>Check out my portfolio for a showcase of my projects: https://ritikrana0169.github.io/<br><br>Social Media Profiles<br>Connect with me on:<br><br>LinkedIn: https://www.linkedin.com/in/ritikrana0169<br><br>Programming Languages, Tools & Databases<br>Here are the technologies I'm proficient in:<br><br>⦿ HTML(Hyper Text Markup Language)<br>⦿ CSS (Cascading Style Sheets)<br>⦿ JavaScript(Programing Language)<br>⦿ Java (Programing Language)<br>⦿ MySQL(DataBase)<br>⦿ Maven(Build Tool)<br>⦿ Spring Framework<br>⦿ Spring Boot<br>⦿ Hibernate(ORM)<br>⦿ SpringDataJPA<br>⦿ Git (Tool)<br>⦿ VsCode (Tool)<br>⦿ Spring Tool Suite (Tool)
 
