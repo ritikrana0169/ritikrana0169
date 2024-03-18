@@ -4,7 +4,7 @@
 <br>Hello! My name is Ritik, and I am a passionate Java Backend Web Developer with strong administrative and problem-solving skills. This README provides an overview of my skills, experiences, and social media profiles.<br><br> Personal Information<br>- **Name:** Ritik Rana<br>- **Email:** ritikrana719@gmail.com<br><br>Portfolio<br>Check out my portfolio for a showcase of my projects: [![Portfolio](https://img.shields.io/badge/Portfolio-ritikrana0169.github.io-blue)](https://ritikrana0169.github.io/)<br><br> Social Media Profiles<br>Connect with me on:<br>- [![LinkedIn](https://img.shields.io/badge/LinkedIn-ritikrana0169-blue)](https://www.linkedin.com/in/ritikrana0169)<br><br>Programming Languages, Tools & Databases<br>Here are the technologies I'm proficient in:<br><br>- ⦿ Java (Programming Language)<br>- ⦿ MySQL (Database)<br>- ⦿ Maven (Build Tool)<br>- ⦿ Spring Framework<br>- ⦿ Spring Boot<br>- ⦿ Hibernate (ORM)<br>- ⦿ Spring Data JPA<br>- ⦿ Git (Tool)<br>- ⦿ VsCode (Tool)<br>- ⦿ Spring Tool Suite (Tool)<br>- ⦿ React<br>- ⦿ Bootstrap<br>- ⦿ MongoDB 
 <br>- ⦿ HTML (Hyper Text Markup Language)<br>- ⦿ CSS (Cascading Style Sheets)<br>- ⦿ JavaScript (Programming Language)
 
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritik-rana-up17/) 
 
